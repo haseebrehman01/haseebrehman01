@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **haseeburrehman763@gmail.com**
 
-- 📫 All of my projects are here **https://keen-biscuit-ebd8a2.netlify.app/**
+- 👨‍💻 All of my projects are here **https://keen-biscuit-ebd8a2.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

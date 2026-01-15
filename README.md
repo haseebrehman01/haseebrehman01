@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm haseeb ur rehman</h1>
 <p align="center">
-  I am a front-end developer skilled in HTML, CSS, JavaScript, and Firebase, currently
-exploring React. I focus on building responsive, user-friendly websites while continuously
+  I am a front-end developer skilled in HTML, CSS, JavaScript, Firebase and React. I focus on building responsive, user-friendly websites while continuously
 improving my skills in modern web technologies.
 
 </p>

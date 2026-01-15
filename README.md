@@ -8,7 +8,7 @@ improving my skills in modern web technologies.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haseebrehman01" alt="haseebrehman01" /></a> </p>
 
-- 🌱 I’m currently learning **react , backend development**
+- 🌱 I’m currently learning **Backend development**
 
 - 💬 Ask me about **html , css , sass , bootstrap , tailwind css , javascript , firebase , react , ant design**
 
